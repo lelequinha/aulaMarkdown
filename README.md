@@ -16,11 +16,12 @@ Você poderá estudar o conteúdo [clicando aqui](https://docs.pipz.com/central-
 
 
 ## Vamos lá! Começe a atividade logo abaixo 👇👇👇
-# Engenharia de requisitos
+
+# Engenharia de requisitos 
 ## A Engenharia de requisitos é uma disciplina dentro da engenharia de software que se concentra na identificação, análise, documentação e gerenciamento dos requisitos de um sistema ou software. Os requisitos representam as necessidades, restrições e funcionalidades que o sistema deve possuir para atender às expectativas dos usuários, clientes e outras partes interessadas. O processo de engenharia de requisitos começa com a elicitação, onde os requisitos são coletados de diversas fontes, como clientes, usuários finais e especialistas do domínio. Em seguida, os requisitos são analisados para garantir que sejam claros, consistentes, completos e testáveis. Esta etapa muitas vezes envolve a modelagem de requisitos para representar visualmente as informações obtidas. Após a análise, os requisitos são documentados em uma especificação de requisitos, que serve como referência para o desenvolvimento do sistema. Durante o desenvolvimento, os requisitos podem ser revisados e atualizados à medida que novas informações são obtidas ou os objetivos do projeto mudam. O gerenciamento de requisitos é uma parte crucial da engenharia de requisitos, envolvendo o rastreamento e a comunicação de mudanças nos requisitos ao longo do ciclo de vida do projeto. Isso ajuda a garantir que o sistema final atenda às necessidades dos stakeholders e seja entregue dentro do prazo e do orçamento estabelecidos.Em suma, a engenharia de requisitos desempenha um papel fundamental no desenvolvimento de software, garantindo que os sistemas sejam desenvolvidos de acordo com as necessidades expectativas dos usuários e partes interessadas, resultando em produtos de alta qualidade e satisfação do cliente.
 
-# Tipos de requisitos
-##Requisitos Funcionais: Descrevem as funcionalidades específicas que o sistema deve realizar. Eles definem o comportamento do sistema em termos de entradas, saídas e processamento de dados.
+# Tipos de requisitos 
+Requisitos Funcionais: Descrevem as funcionalidades específicas que o sistema deve realizar. Eles definem o comportamento do sistema em termos de entradas, saídas e processamento de dados.
 
 Requisitos Não Funcionais: Referem-se a atributos de qualidade do sistema, como desempenho, segurança, usabilidade, confiabilidade e escalabilidade. Eles descrevem as características do sistema além das funcionalidades específicas.
 
@@ -29,15 +30,32 @@ Requisitos de Usuário: Representam as necessidades e expectativas dos usuários
 Requisitos de Sistema: Descrevem as necessidades do sistema como um todo, incluindo requisitos de hardware, software e integra
 
 # Exemplos 
-## Elicitação de Requisitos: Realizar entrevistas com os stakeholders para entender suas necessidades e expectativas em relação ao sistema.
-Realizar workshops de brainstorming para identificar requisitos importantes.
-Observar os usuários em seus ambientes de trabalho para entender melhor suas necessidades.
+Entrevistas com Stakeholders: Os engenheiros de requisitos entrevistam os stakeholders relevantes para entender suas necessidades, expectativas e requisitos para o sistema em questão.
 
-Análise de Requisitos: Analisar os requisitos coletados para identificar inconsistências, ambiguidades ou conflitos.
-Priorizar os requisitos com base na importância para os stakeholders e na viabilidade técnica.
-Decompor requisitos complexos em requisitos menores e mais gerenciáveis.
+Workshops de Requisitos: Realização de sessões colaborativas com stakeholders para identificar e documentar requisitos de forma rápida e eficiente.
 
-Documentação de Requisitos: Escrever uma especificação de requisitos detalhada que descreva todos os requisitos do sistema.
-Criar diagramas de casos de uso, fluxos de processo ou modelos de dados para representar visualmente os requisitos.
-Utilizar ferramentas de
+Prototipagem: Desenvolvimento de protótipos ou modelos de software para ajudar os stakeholders a visualizarem e validarem os requisitos do sistema.
+
+Elicitação de Requisitos: Utilização de diversas técnicas, como brainstorming, análise de documentos existentes e observação de usuários, para identificar e capturar requisitos.
+
+Análise de Casos de Uso: Identificação e descrição detalhada das interações entre os usuários e o sistema, geralmente representadas através de diagramas de casos de uso.
+
+Documentação de Requisitos: Elaboração de documentos formais, como especificações de requisitos, que descrevem detalhadamente os requisitos funcionais e não funcionais do sistema.
+
+Validação de Requisitos: Revisão e validação dos requisitos com os stakeholders para garantir que atendam às necessidades do usuário e estejam alinhados com os objetivos do projeto.
+
+Rastreabilidade de Requisitos: Estabelecimento de uma relação de rastreabilidade entre os requisitos e outros artefatos do projeto, como casos de teste e código fonte, para garantir que todos os requisitos sejam implementados e testados.
+
+# Tabela
+
+
+
+
+# Sites usados
+<https://www.devmedia.com.br/introducao-a-engenharia-de-requisitos/8034>
+<https://www.maxwell.vrac.puc-rio.br/6954/6954_3.PDF>
+<https://www.devmedia.com.br/trabalhando-com-engenharia-de-requisitos/30207>
+<https://mercadoonlinedigital.com/blog/engenharia-de-requisitos/>
+
+
 
